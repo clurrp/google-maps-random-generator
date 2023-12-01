@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "buffer": "^6.0.3"
+  },
+  "dependencies": {
+    "@types/google.maps": "^3.54.10"
+  }
+}
