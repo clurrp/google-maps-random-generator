@@ -3,6 +3,7 @@
     "buffer": "^6.0.3"
   },
   "dependencies": {
+    "@faker-js/faker": "^8.3.1",
     "@types/google.maps": "^3.54.10"
   }
 }
